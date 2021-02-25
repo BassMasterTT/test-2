@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <section className="App h-screen w-full flex justify-center items-center bg-green-500">
-      <navbar className="Nav h-screen w-full flex justify-start bg-red-800"></navbar>
+    
       <div className="w-full max-w-md ">
         <form action="" className=" bg-white shadow-md rounded px-8 py-8 pt-8">
           <div className="px-4 pb-4">
